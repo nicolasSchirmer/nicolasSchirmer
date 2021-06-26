@@ -45,7 +45,7 @@ I'm working as a Solutions/Security Architect & Threat Intelligence Researcher &
 - Innovation researcher
 - Mobile Architect
 - Solutions Architect | Security Architect | DevOps | Pentester | Threat Intell researcher
-- To be completely honest, I really don't know what is my defined role anymore. I just do what is fun and enticing
+- To be completely honest... I really don't know what my defined role is anymore. I just do what is fun and enticing. Just going with the flow :)
 
 ## Contact
 
