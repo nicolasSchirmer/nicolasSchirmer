@@ -49,6 +49,9 @@ I'm working as a Solutions/Security Architect & Threat Intelligence Researcher &
 - Solutions Architect | Security Architect | DevOps | Pentester | Threat Intell researcher
 - To be completely honest... I really don't know what my defined role is anymore. I just do what is fun and enticing. Just going with the flow :)
 
+## Non sleeping nights
+Lost count
+
 ## Contact
 
 https://www.linkedin.com/in/nicolasschirmer/
