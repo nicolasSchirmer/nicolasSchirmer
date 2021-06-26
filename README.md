@@ -2,7 +2,7 @@
 
 Hey! 🥸🤙
 
-My name is Nicolas and I'm a Brazilian ~~developer~~.... ~~security engineer~~... ~~pentester~~... ~~architect~~.... ~~reverse engineer~~... **problem solver**.
+My name is Nicolas and I'm a Brazilian ~~developer~~.... ~~security engineer~~... ~~pentester~~... ~~architect~~.... ~~reverse engineer~~... **problem solver** with more than 17 years of experience with IT in general.
 
 > I've started coding since I was 10yo, lern by my self without any support for it and created at that time a Windows XP Malware with Basic to mess up remotely the sys32 structure. Since that age I've never stoped learning computer coding and attack vectors.
 
