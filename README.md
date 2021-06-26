@@ -1,6 +1,6 @@
 # 0x00 :  Hello World! 
 
-Hey!
+Hey! 🥸🤙
 
 My name is Nicolas and I'm a Brazilian ~~developer~~.... ~~security engineer~~... ~~pentester~~... ~~architect~~.... ~~reverse engineer~~... **problem solver**.
 
